@@ -1,10 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div>
-  https://komarev.com/ghpvc/?username=your-github-username
+  https://komarev.com/ghpvc/?username=JHwang95
 </div>
 
 <h1>
