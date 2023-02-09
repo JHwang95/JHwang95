@@ -3,17 +3,9 @@
   <img src="imgs/night-type.gif" width="350"/>
 
   <div id="badges">
-    ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:1995.j.hwang@gmail.com)
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="mailto:1995.j.hwang@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=JHwang95&style=flat-square&color=blue" alt=""/>
-  </div>
 </div>  
 
 <h1 align="center">
