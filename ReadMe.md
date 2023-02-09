@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="/img/cat-type.gif" width="100"/>
+  <img src="imgs/cat-type.gif" width="100"/>
 </div>  
 
 <h1 align="center">
