@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="imgs/Header.png" width="350"/>
+  <img src="imgs/Header.png" width="700"/>
   <!-- <h1 align="center">
     <img src="imgs/blob-happy.gif" width="30px"/>
   </h1> -->
