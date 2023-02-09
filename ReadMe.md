@@ -1,6 +1,9 @@
 
 <div id="header" align="center">
-  <img src="imgs/night-type.gif" width="350"/>
+  <img src="imgs/Header.png" width="350"/>
+  <!-- <h1 align="center">
+    <img src="imgs/blob-happy.gif" width="30px"/>
+  </h1> -->
 
   <div id="badges">
     <a href="mailto:">
@@ -11,11 +14,6 @@
     <img src="https://komarev.com/ghpvc/?username=JHwang95&style=flat-square&color=blue" alt=""/>
   </div>
 </div>  
-
-<h1 align="center">
-  <img src="imgs/blob-happy.gif" width="30px"/>
-  welcome to my github!
-</h1>
 
 ---
 
