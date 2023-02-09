@@ -21,11 +21,11 @@
 
 I am a Junior Programmer at Mohawk College School of Technology
 
-- :telescope: Currently studying as a Softwarer Developer that focuses on ASP.NET and C# environments.
+  :telescope: Currently studying as a Softwarer Developer that focuses on ASP.NET and C# environments.
 
-- :seedling: Exploring data structures & alogrithms, and SQL databases. 
+  :seedling: Exploring data structures & alogrithms, and SQL databases. 
 
-- :zap: In my free time, I enjoy playing strategy games and diving into history.
+  :zap: In my free time, I enjoy playing strategy games and diving into history.
 
 ---
 
