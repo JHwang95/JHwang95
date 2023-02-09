@@ -14,7 +14,7 @@
 
 <h1 align="center">
   welcome to my github!
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/lottie.json" width="30px"/>
+  <img src="imgs/blob-happy.gif" width="30px"/>
 </h1>
 
 ---
