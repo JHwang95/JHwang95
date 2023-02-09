@@ -3,14 +3,18 @@
   <img src="imgs/night-type.gif" width="350"/>
 
   <div id="badges">
-    <a href="mailto:1995.j.hwang@gmail.com">
+    <a href="mailto:">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
+  </div>
+  <div id="badges" align="center">
+    <img src="https://komarev.com/ghpvc/?username=JHwang95&style=flat-square&color=blue" alt=""/>
+  </div>
 </div>  
 
 <h1 align="center">
   welcome to my github!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/lottie.json" width="30px"/>
 </h1>
 
 ---
